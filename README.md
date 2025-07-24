@@ -19,8 +19,8 @@ The project captures and analyzes live network traffic using **Python** and the 
 
 ## 📷 Screenshot
 
-![screenshot](https://via.placeholder.com/700x300.png?text=Packet+Sniffer+CLI+Output)  
-*(Replace with your actual screenshot)*
+![screenshot]
+https://drive.google.com/file/d/1a_jy5v4KPA_7MkOJMQe1cLl0wmwRiVur/view?usp=sharing
 
 ---
 
